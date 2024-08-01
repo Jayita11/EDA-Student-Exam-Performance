@@ -5,6 +5,8 @@
 
 This project performs an Exploratory Data Analysis (EDA) on a dataset of student performance. The analysis aims to uncover insights and trends in student performance based on various attributes such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course completion. Additionally, the project includes hypothesis testing to determine the impact of the test preparation course on student performance.
 
+![image](https://github.com/user-attachments/assets/5437fab9-5e7d-402d-ba48-b58b03985b69)
+
 ## Dataset
 
 The dataset used in this project is `StudentsPerformance.csv`, which contains the following columns:
